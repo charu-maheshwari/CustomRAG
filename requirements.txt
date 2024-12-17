@@ -1,0 +1,12 @@
+PyMuPDF
+tqdm
+-U torch
+sentence-transformers
+accelerate
+bitsandbytes
+flash-attn --no-build-isolation
+fitz
+spacy
+sentence_transformers
+
+
